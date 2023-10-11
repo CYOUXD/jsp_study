@@ -2,11 +2,7 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>JSP 파일입니다.</title>
-	</head>
 	<body>
-		<h2>JSP 페이지 입니다.</h2>
+		<h2>여기는 header 파일 입니다.</h2>
 	</body>
 </html>

@@ -4,9 +4,15 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>JSP 파일입니다.</title>
+		<title>스크립틀릿02</title>
 	</head>
 	<body>
-		<h2>JSP 페이지 입니다.</h2>
+		<%
+		int a = 10;
+		if(a>=10) {
+			out.println("안녕하세요<br>");
+			out.println("<b>안녕하세요</b>");
+		}
+		%>
 	</body>
 </html>
